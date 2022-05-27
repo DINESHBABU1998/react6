@@ -1,0 +1,72 @@
+.container{
+    height: 80px;
+    width: 100vw;
+    background-color: rgb(6, 6, 99);
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+.home{
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.stud{
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.cont{
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.stucon{
+    display: flex;
+    justify-content: space-evenly;
+}
+.stu{
+    height: 50px;
+    width: 150px;
+    border: 2px solid cyan;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    color: black;
+    font-family: sans-serif;
+    position: relative;
+    top: 5px;
+}
+.form{
+    margin: 25px;
+}
+.can{
+    height: 30px;
+    width: 100px;
+    border: 2px solid cyan;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    color: black;
+    margin: 15px;
+}
+.sub{
+    height: 30px;
+    width: 100px;
+    border: 2px solid cyan;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    color: black;
+    margin: 15px;
+}
+.but{
+    margin: 20px;
+}
+input{
+    height: 30px;
+    width: 200px;
+    border: 2px solid cyan;
+    border-radius: 5px;
+}
+table{
+    position: relative;
+    top: 30px;
+}
